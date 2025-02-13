@@ -66,11 +66,25 @@ export default function Portfolio() {
       logo: "/Shell.webp?height=50&width=50",
     },
     {
+      title: "Full-Stack Developer Volunteer",
+      company: "West Agile Labs",
+      location: "Remote",
+      period: "August 2019 - August 2020",
+      logo: "/placeholder.svg?height=50&width=50",
+    },
+    {
       title: "Software Engineering Intern",
       company: "Shell",
       location: "Bengaluru, India",
       period: "June 2019 - August 2019",
       logo: "/Shell.webp?height=50&width=50",
+    },
+    {
+      title: "IT Application Developer Volunteer",
+      company: "Square Off",
+      location: "Remote",
+      period: "August 2018 - May 2019",
+      logo: "/placeholder.svg?height=50&width=50",
     },
   ]
 
